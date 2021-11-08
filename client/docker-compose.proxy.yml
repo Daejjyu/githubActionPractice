@@ -1,0 +1,9 @@
+# https://velog.io/@wmc1415/docker를-이용한-react-앱-배포
+version: "3"
+services:
+  proxy:
+    image: nginx:latest
+    ports:
+      - "80:80"
+    volumes:
+      - ./proxy/nginx.conf:/etc/nginx/nginx.conf

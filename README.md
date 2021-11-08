@@ -503,6 +503,15 @@ docker-compose up -d --build
 
 ## CI/CD 동작 코드
 
+- [nginx-docker-react 참고1](https://velog.io/@wmc1415/docker를-이용한-react-앱-배포)
+- [nginx-docker-react 참고2](#https://medium.com/sjk5766/docker-compose로-localhost-nginx-리버스-프록시-구성-8214d41a94fc)
+
+### 삽질
+
+- [nginx docker upstram 502 bad gate](https://stackoverflow.com/questions/38346847/nginx-docker-container-502-bad-gateway-response)
+- ![container_flow](https://user-images.githubusercontent.com/37368480/140664595-7c4e90a3-3872-4e17-a952-22969c4e0906.png)
+- remote IP / DNS / Host newworking 등으로 해결
+
 ## 결론
 
 ## 참조
