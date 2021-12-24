@@ -7,7 +7,7 @@
 3. [NginX](#nginx)
 4. [PM2](#pm2)
 5. [Docker](#docker)
-6. [Docker-Compose](#dockercompose)
+6. [Docker-Compose](#docker-compose)
 7. [무중단 배포](#무중단-배포)
 8. [목표 프로젝트 구조](#목표-프로젝트-구조)
 9. [CI/CD 동작 코드](#cicd-동작-코드)
