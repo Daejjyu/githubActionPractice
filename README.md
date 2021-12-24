@@ -383,7 +383,7 @@ docker image tag {이미지} {내 유저명}/{이미지}
 docker image tag docker-react-ngnix yourUserName/docker-react-ngnix
 ```
 
-### [Dokcer 컨테이너에 데이터 저장](https://www.daleseo.com/docker-volumes-bind-mounts/)
+### [Docker 컨테이너에 데이터 저장](https://www.daleseo.com/docker-volumes-bind-mounts/)
 
 - 볼륨 데이터란?
   - 도커는 컨테이너는 독립적인 저장소를 가지며 컨테이너 내부에 저장되는 데이터는 컨테이너가 삭제되었을 경우 함께 사라진다. (휘발성)
